@@ -72,8 +72,8 @@ COMMANDLINE=$@
 
 DISTRO=""
 RPM=""
-SRC="$HOME/src/blender-deps"
-INST="/opt/lib"
+INST=/mnt/home/maxzor/blender/blender-git/build/lib
+SRC=/mnt/home/maxzor/blender/blender-git/build/libsrc
 TMP="/tmp"
 CWD=$PWD
 INFO_PATH=$CWD
